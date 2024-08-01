@@ -8,14 +8,18 @@ redirect_from:
 ---
 
 {% include base_path %}
+Download a [PDF version](http://daniel-lyon.github.io/files/CV.pdf).
+
+Interests
+======
+High-redshift galaxies, galaxy evolution, infrared galaxies, AGN co-evolution, cosmic-dawn, interstellar medium, evolution of gas and dust
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Queensland University of Technology**, MPhil in Astrophysics
+* **Queensland University of Technology**, B.Sc in Physics
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -61,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
