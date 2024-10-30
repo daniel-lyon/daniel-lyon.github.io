@@ -9,5 +9,3 @@ paperurl: 'https://ui.adsabs.harvard.edu/link_gateway/2024arXiv240511749F/doi:10
 citation: 'Forbes, D. A., Lyon, Daniel, Gannon, J., Romanowsky, A. J., & Brodie, J. P. 2024, Keck/KCWI Spec-
 troscopy of Globular Clusters in Local Volume Dwarf Galaxies, arXiv. http://ascl.net/2405.11749'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
