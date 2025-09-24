@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently studying my PhD in Astronomy and Astrophysics at [Swinburne University of Technology](https://www.swinburne.edu.au/research/centres-groups-clinics/centre-for-astrophysics-supercomputing/) working with Professor Ivo Labbe. I am interested in high-redshift galaxy evolution at cosmic dawn, infrared galaxies, black holes, and AGN evolution, with a focus on the James Webb Space Telescope.
+I am currently studying my PhD in Astronomy and Astrophysics at [Swinburne University of Technology](https://www.swinburne.edu.au/research/centres-groups-clinics/centre-for-astrophysics-supercomputing/) working with Professor Ivo Labbe. I am interested in high-redshift galaxy evolution at cosmic dawn, infrared galaxies, black holes, AGN evolution, and LRDs, with a focus on the James Webb Space Telescope.
 
 * I graduated my M.Phil in Astrophysics from [QUT](https://www.qut.edu.au/courses/bachelor-of-science-physics) in July 2025
 
